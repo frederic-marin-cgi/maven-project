@@ -1,6 +1,5 @@
 package com.example;
 
-import java.lang.Math;
 /**
 * this is a defaut Class constructor
 */
